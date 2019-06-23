@@ -1,5 +1,5 @@
 # QuranSearchAndMemorization
-This iOS Application is a part of My Graduation Project for Computer Science Departement at Faculty of Computers and Information – Helwan University. It’s also a Graduation Project for Udacity iOS Developer Nano Degree.
+This iOS Application is a part of My Graduation Project for Computer Science Departement at Faculty of Computers and Information – Helwan University.
 
 ## How to run this Project
 Just clone or download this project on your machine and open `Quran.xcworkspace` file and run it.
